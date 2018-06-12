@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Experiment_1.jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Experiment_1.jar">
+      <element id="module-output" name="Experiment_1" />
+    </root>
+  </artifact>
+</component>

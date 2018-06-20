@@ -81,9 +81,6 @@ public class Experiment {
     public static void main(String[] args){
         System.out.println("--------------------------");
         System.out.println("------实验一：进程调度------");
-        System.out.println("---------软信1603----------");
-        System.out.println("----------薛晨阳-----------");
-        System.out.println("---------20163754---------");
         System.out.println("--------------------------\n");
         Experiment exp = new Experiment();//创建实验
         exp.choice();//选择算法

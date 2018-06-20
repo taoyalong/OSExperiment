@@ -105,44 +105,9 @@ public class Experiment {
         }
     }
 
-
-    // public static void Show(int p) {
-    //     if (p == -1) {
-
-    //         }
-    //     }else {
-    //         if (flag == 0) {
-    //             System.out.println("---------------------请求资源后分配情况--------------------------");
-    //             System.out.println("         Work          Need       Allocation  Work+Allocation  Finish");
-    //             System.out.println("       A   B   C     A   B   C     A   B   C     A   B   C");
-    //             flag = 1;
-    //         }
-    //         if (flag == 1) {
-    //             System.out.print("P["+p+"]   ");
-    //             for (int j = 0; j < 3; j++)
-    //                 System.out.print(_Work[p][j] + "   ");
-    //             System.out.print("  ");
-    //             for (int j = 0; j < 3; j++)
-    //                 System.out.print(Need[p][j] + "   ");
-    //             System.out.print("  ");
-    //             for (int j = 0; j < 3; j++)
-    //                 System.out.print(Allocation[p][j] + "   ");
-    //             System.out.print("  ");
-    //             for (int j = 0; j < 3; j++)
-    //                 System.out.print((_Work[p][j]+Allocation[p][j]) + "   ");
-    //             System.out.print("    "+Finish[p]);
-    //             System.out.println();
-    //         }
-    //     }
-    // }
-
-
     public static void main(String[] args){
         System.out.println("--------------------------");
         System.out.println("------实验二：资源分配------");
-        System.out.println("---------软信1603----------");
-        System.out.println("----------薛晨阳-----------");
-        System.out.println("---------20163754---------");
         System.out.println("--------------------------\n");
 
         Experiment exp = new Experiment();
